@@ -1,0 +1,68 @@
+.white-background {
+  background-color: white;
+  height: 150px;
+  position: fixed;
+  width: 100%;
+  
+}
+
+#navbar1{
+height: 50px;
+}
+.navbar{
+height: 110px;
+overflow:hidden;
+}
+
+
+.grad-background {
+  background: url('/beerbg.png') center ;
+  background-size: cover;
+  height: 600px;
+  background-size:100% 100%;
+  padding-right: 50px;
+}
+
+
+
+.container.colorblocktop img {
+  max-width: 100%; /* Ensure the image does not exceed container width */
+  max-height: 100%; /* Ensure the image does not exceed container height */
+}
+
+#topMenu{
+  color: white;
+  padding-left: 300px;
+  padding-top: 0px;
+  }
+  .navbar-brands {
+    position: fixed;
+    text-decoration: none;
+    color: white;
+    margin-left: -30px; /* Adjust this value as needed */
+}
+
+  .nav-link{
+      color: black;
+      
+  }
+  .nav-link2{
+    text-decoration: none;
+    color: rgba(255, 255, 255, 0.776);
+  }
+  .nav-link:hover{
+      color: black;
+  }
+
+  #yello .nav-link {
+      color: #EDC601;
+  }
+#loccolor {
+color: #EDC601
+}
+  footer {
+    background-color: #EDC601;
+    position: fixed;
+    min-height: 450px; /* Adjust the height as needed */
+    width: 100%;
+}
